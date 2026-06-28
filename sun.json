@@ -1,0 +1,364 @@
+{
+  "id": "sun-sofvanh",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@sofvanh Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b0279c692f36",
+    "display_name": "sofvanh",
+    "user_id": "@sofvanh",
+    "description": "Community Archive-derived proof-of-search sun for @sofvanh.",
+    "document_count": 109,
+    "word_count": 2469,
+    "active_days": 28,
+    "emissions": [
+      "Exgenesis",
+      "Know",
+      "Alexislearning",
+      "Really",
+      "Want",
+      "Mrsimmosimpson"
+    ],
+    "generated_at": "2026-06-28T13:15:51.702386+00:00",
+    "color": "#f59e0b",
+    "mass": 7.812
+  },
+  "planets": [
+    {
+      "id": "planet_9a84fd9a4740",
+      "name": "Exgenesis",
+      "summary": "Archive cluster around exgenesis: 79 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "exgenesis",
+        "still",
+        "egregoregalore",
+        "tweet",
+        "might"
+      ],
+      "artifacts": [
+        {
+          "id": "art_923989eaa055",
+          "title": "Exgenesis receipt from 2025-09-01",
+          "excerpt": "Query examples:\n\nPeople to follow: \"wholesome and vibey analysis of world economy with a rationalist take\"\n\nCollaborators: \"writer-philosopher to help with my network systems project\"\n\nGigs: \"an impressionist painter-photographer who could photograph AND paint our Oslo wedding\"",
+          "source_document_id": "1962519168592355794",
+          "timestamp": "2025-09-01T14:13:26+00:00",
+          "url": "https://x.com/sofvanh/status/1962519168592355794",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: exgenesis, still, egregoregalore, tweet."
+        },
+        {
+          "id": "art_5ffad1dda917",
+          "title": "Exgenesis receipt from 2025-09-01",
+          "excerpt": "I'm curious about the future of the job market, and this project explores 'Live Markets', drawing from Live Theory / autostructures. Some in my fellowship think this is just the natural continuation of the (human) economy: a better, worldwide offers/asks platform.",
+          "source_document_id": "1962519170563670168",
+          "timestamp": "2025-09-01T14:13:26+00:00",
+          "url": "https://x.com/sofvanh/status/1962519170563670168",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: exgenesis, still, egregoregalore, tweet."
+        },
+        {
+          "id": "art_ddbecb96afc6",
+          "title": "Exgenesis receipt from 2025-08-31",
+          "excerpt": "Does meditation increase the size of your context window??",
+          "source_document_id": "1962198892759425222",
+          "timestamp": "2025-08-31T17:00:46+00:00",
+          "url": "https://x.com/sofvanh/status/1962198892759425222",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: exgenesis, still, egregoregalore, tweet."
+        },
+        {
+          "id": "art_609242b9eada",
+          "title": "Exgenesis receipt from 2025-09-01",
+          "excerpt": "This project is just a demo/prototype - with a dataset of less than 300 people, it's not going to change the world. But I think it might be cool/useful for TPOT!",
+          "source_document_id": "1962519173080240400",
+          "timestamp": "2025-09-01T14:13:27+00:00",
+          "url": "https://x.com/sofvanh/status/1962519173080240400",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: exgenesis, still, egregoregalore, tweet."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0a20442d1c78",
+      "proof_score": 0.788,
+      "mass": 21.942,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7e82d61e15a4",
+      "name": "Know",
+      "summary": "Archive cluster around know: 7 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "enough",
+        "work",
+        "lot",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2a67fb3d70cf",
+          "title": "Know receipt from 2025-08-26",
+          "excerpt": "My founder stages\n\n2023: understanding *the world* so I know what I *should* work on\n\n2024: understanding *my values* so I know what I *want* to work on\n\n2025: looking for ALIVENESS IN MY SOUL so I know when THE UNIVERSE IS CALLING ME TO A DANCE OF DIVINE CREATION AND GLORY",
+          "source_document_id": "1960405403772313691",
+          "timestamp": "2025-08-26T18:14:05+00:00",
+          "url": "https://x.com/sofvanh/status/1960405403772313691",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, enough, work, lot."
+        },
+        {
+          "id": "art_fa4210b34ea3",
+          "title": "Know receipt from 2025-08-31",
+          "excerpt": "the feminine urge to know if I'm a light spring or a soft autumn but I need to know THIS MINUTE",
+          "source_document_id": "1962162636876918794",
+          "timestamp": "2025-08-31T14:36:42+00:00",
+          "url": "https://x.com/sofvanh/status/1962162636876918794",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, enough, work, lot."
+        },
+        {
+          "id": "art_704d46cc5f7b",
+          "title": "Know receipt from 2025-08-29",
+          "excerpt": "How do you use Twitter so that it's not at all bad for you? Scrolling *feels bad* a lot of the time, but there's little benefit if I *never* read what others post...\n\nWhat helps? Hard rules around scrolling? Browser extensions? or do I just need to wait for the algo to know me",
+          "source_document_id": "1961486400458526817",
+          "timestamp": "2025-08-29T17:49:35+00:00",
+          "url": "https://x.com/sofvanh/status/1961486400458526817",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, enough, work, lot."
+        },
+        {
+          "id": "art_3dddfd88fca3",
+          "title": "Know receipt from 2025-09-08",
+          "excerpt": "I'm always doing things I don't actually know how to do...  I've never stuck with a tech stack long enough to feel like an expert\n\nI started coding by making Android apps in my teens, knowing nothing but Java. Then became a game engineer, building features for a big online...",
+          "source_document_id": "1965041003079029099",
+          "timestamp": "2025-09-08T13:14:18+00:00",
+          "url": "https://x.com/sofvanh/status/1965041003079029099",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, enough, work, lot."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e25b3322ec41",
+      "proof_score": 0.558,
+      "mass": 17.314,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_87cb5efb1266",
+      "name": "Alexislearning",
+      "summary": "Archive cluster around alexislearning: 8 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "alexislearning",
+        "tweet",
+        "thinking",
+        "something",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_67762434e160",
+          "title": "Alexislearning receipt from 2025-08-23",
+          "excerpt": "@alexislearning I'm obviously not a tweet expert but, I'm thinking about something like love bombing people on twitter\n\nLike yesterday my friend liked a bunch of my tweets and left a reply, which felt like, \"aw he's checking up on me, that's so sweet\"\n\nSo then I did the same to some friends",
+          "source_document_id": "1959298871797920169",
+          "timestamp": "2025-08-23T16:57:07+00:00",
+          "url": "https://x.com/sofvanh/status/1959298871797920169",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: alexislearning, tweet, thinking, something."
+        },
+        {
+          "id": "art_103eb6bfc27e",
+          "title": "Alexislearning receipt from 2025-08-23",
+          "excerpt": "@alexislearning Like this feels so wholesome - I'm sending love out and also saying \"I came to see what you've been up to\"\n\nI'm also forcing myself to tweet daily but I'm currently glad I'm doing it because it gives others the chance to check up on me. even if no one sees them at first",
+          "source_document_id": "1959299423608934455",
+          "timestamp": "2025-08-23T16:59:19+00:00",
+          "url": "https://x.com/sofvanh/status/1959299423608934455",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: alexislearning, tweet, thinking, something."
+        },
+        {
+          "id": "art_13f485b39ca3",
+          "title": "Alexislearning receipt from 2025-08-05",
+          "excerpt": "@MrSimmoSimpson @alexislearning I like this!! Also immediately found a cute Simmo mention 🍋💛 https://t.co/oT3INhukvE",
+          "source_document_id": "1952768877294727539",
+          "timestamp": "2025-08-05T16:29:15+00:00",
+          "url": "https://x.com/sofvanh/status/1952768877294727539",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: alexislearning, tweet, thinking, something."
+        },
+        {
+          "id": "art_120511e25e83",
+          "title": "Alexislearning receipt from 2025-08-31",
+          "excerpt": "@alexislearning @simon_ohler Ok there’s the fomo .",
+          "source_document_id": "1962282739064824234",
+          "timestamp": "2025-08-31T22:33:57+00:00",
+          "url": "https://x.com/sofvanh/status/1962282739064824234",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: alexislearning, tweet, thinking, something."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4220ce031799",
+      "proof_score": 0.57,
+      "mass": 15.895,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_6aa0cc5d3029",
+      "name": "Really",
+      "summary": "Archive cluster around really: 7 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "work",
+        "tweeting",
+        "miss",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_158a26cab001",
+          "title": "Really receipt from 2025-09-01",
+          "excerpt": "I'm really scared of sharing unfinished work but here goes: \n\nI'm working on a little project built on Community Archive, for searching across all users. The idea is that you can put very specific queries for people and the results will be so fitting it will feel like ✨ magic ✨ https://t.co/GyakVFT69W",
+          "source_document_id": "1962519165513748601",
+          "timestamp": "2025-09-01T14:13:25+00:00",
+          "url": "https://x.com/sofvanh/status/1962519165513748601",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, work, tweeting, miss."
+        },
+        {
+          "id": "art_e94e161689b5",
+          "title": "Really receipt from 2025-09-02",
+          "excerpt": "I'm going to Finnish this project (design a great plan, execute carefully, and have really good work-life balance throughout) https://t.co/3TUKHrDicb",
+          "source_document_id": "1962932830717050982",
+          "timestamp": "2025-09-02T17:37:11+00:00",
+          "url": "https://x.com/sofvanh/status/1962932830717050982",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, work, tweeting, miss."
+        },
+        {
+          "id": "art_0cad63dbcd3c",
+          "title": "Really receipt from 2025-08-15",
+          "excerpt": "Got really ill and didn’t want to bully myself into tweeting with 4 live brain cells. Challenge resumes next week k? 🤗 https://t.co/PUJ6GlcToH",
+          "source_document_id": "1956349072425492585",
+          "timestamp": "2025-08-15T13:35:40+00:00",
+          "url": "https://x.com/sofvanh/status/1956349072425492585",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, work, tweeting, miss."
+        },
+        {
+          "id": "art_ecdca92cf131",
+          "title": "Really receipt from 2025-08-22",
+          "excerpt": "Ok I’m being a bit bad abt this “tweeting my lab notes” thing but\n\nI’ve been doing some personal cause prioritisation and it feels really good to be doing that after years of deferring and just focusing on building rather than broad vision\n\nI miss coding tho",
+          "source_document_id": "1959027864159891593",
+          "timestamp": "2025-08-22T23:00:14+00:00",
+          "url": "https://x.com/sofvanh/status/1959027864159891593",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, work, tweeting, miss."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_02a68726bee7",
+      "proof_score": 0.558,
+      "mass": 16.275,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_2fae6ff8fff0",
+      "name": "Want",
+      "summary": "Archive cluster around want: 6 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "those",
+        "other",
+        "environment",
+        "grow"
+      ],
+      "artifacts": [
+        {
+          "id": "art_33d88a9d33a7",
+          "title": "Want receipt from 2025-08-21",
+          "excerpt": "AI psychosis might not be caused by AI, but it's indicative of an environment that's more likely to trigger your vulnerabilities than to help you grow into a stronger person\n\nI worry about this as a general trend. I want a digital environment that makes us grow by default https://t.co/b3jbcTty9W",
+          "source_document_id": "1958561353611804899",
+          "timestamp": "2025-08-21T16:06:29+00:00",
+          "url": "https://x.com/sofvanh/status/1958561353611804899",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, those, other, environment."
+        },
+        {
+          "id": "art_04aeda5ef8a0",
+          "title": "Want receipt from 2025-08-05",
+          "excerpt": "Who are the best people at \"working in public\" in a fruitful way on X in 2025? I need people to follow (and want to avoid those optimising for views/engagement.)",
+          "source_document_id": "1952741324077084714",
+          "timestamp": "2025-08-05T14:39:46+00:00",
+          "url": "https://x.com/sofvanh/status/1952741324077084714",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, those, other, environment."
+        },
+        {
+          "id": "art_9e0c28079b20",
+          "title": "Want receipt from 2025-08-19",
+          "excerpt": "Getting Svelte-pilled, and the last nail on the coffin is how beautiful and simple the home page &amp; docs are.\n\nI want my developer experience to be aesthetic, and I love that other builders are also starting to pay attention to this. https://t.co/J6NJoE35lU",
+          "source_document_id": "1957830221224185926",
+          "timestamp": "2025-08-19T15:41:14+00:00",
+          "url": "https://x.com/sofvanh/status/1957830221224185926",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, those, other, environment."
+        },
+        {
+          "id": "art_936c5402c21f",
+          "title": "Want receipt from 2025-08-07",
+          "excerpt": "Also, like, artists? I want my feed to be 50% human made watercolour paintings",
+          "source_document_id": "1953573235347664970",
+          "timestamp": "2025-08-07T21:45:29+00:00",
+          "url": "https://x.com/sofvanh/status/1953573235347664970",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, those, other, environment."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cf7d49166c31",
+      "proof_score": 0.545,
+      "mass": 15.895,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_1babc1588673",
+      "name": "Mrsimmosimpson",
+      "summary": "Archive cluster around mrsimmosimpson: 2 posts; 2 quote-backed receipts pinned.",
+      "top_terms": [
+        "mrsimmosimpson",
+        "nunosempere",
+        "thank",
+        "felt",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_95d1cc9b6e8e",
+          "title": "Mrsimmosimpson receipt from 2025-09-04",
+          "excerpt": "@MrSimmoSimpson More of this pls",
+          "source_document_id": "1963646070937809031",
+          "timestamp": "2025-09-04T16:51:20+00:00",
+          "url": "https://x.com/sofvanh/status/1963646070937809031",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mrsimmosimpson, nunosempere, thank, felt."
+        },
+        {
+          "id": "art_9d4fe41859c5",
+          "title": "Mrsimmosimpson receipt from 2025-08-06",
+          "excerpt": "@NunoSempere Thank you! Felt too intimidated to tweet out the link myself 🙈 following @MrSimmoSimpson ‘s advice of baby steps…",
+          "source_document_id": "1953217877881807163",
+          "timestamp": "2025-08-06T22:13:25+00:00",
+          "url": "https://x.com/sofvanh/status/1953217877881807163",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mrsimmosimpson, nunosempere, thank, felt."
+        }
+      ],
+      "artifact_count": 2,
+      "receipt_id": "rcpt_a90085432b0c",
+      "proof_score": 0.46,
+      "mass": 9.774,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
